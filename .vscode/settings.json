@@ -1,0 +1,7 @@
+{
+    "intelephense.files.associations": [
+    associations
+        "*.php",
+        "*.phtml"
+    ]
+}
